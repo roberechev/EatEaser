@@ -27,3 +27,7 @@ Ejecute el comando para iniciar el programa:
 ```
 python main.py
 ```
+Capturas Interfaz
+-----------
+<img src="https://github.com/adobrasca512/EatEaser/blob/pruebasCarlow/Interfaz/imagenes/Captura%20de%20pantalla_20230114_193423.png" alt="mypy logo" width="100px"/>
+<img src="https://github.com/adobrasca512/EatEaser/blob/pruebasCarlow/Interfaz/imagenes/Captura%20de%20pantalla_20230116_135417.png" alt="mypy logo" width="100px"/>
