@@ -1,4 +1,5 @@
-## Compañía Eateaser
+<img src="url(https://github.com/adobrasca512/EatEaser/blob/pruebasCarlow/Interfaz/imagenes/chef-logo.png)" alt="mypy logo" width="300px"/>
+Compañía Eateaser
 EatEaser se enmarca en el ámbito de la inteligencia artificial y el procesamiento del lenguaje natural, tiene una aplicación práctica en el campo de la cocina, queremos dar una mejor accesibilidad a las recetas de cocina y una mejor experiencia para el usuario al clasificar recetas específicas. 
 ## Información Startup
 Este proyecto tiene como objetivo principal procesar recetas de cocina, extrayendo el audio de los videos para convertirlo en un formato de texto mediante técnicas de reconocimiento de voz, para luego utilizar técnicas de procesamiento del lenguaje natural para limpiar y preparar los datos para su uso en un modelo de clasificación. Antes de programar con python estos modelos de clasificación, se realizó un estudio de los mejores modelos para la clasificación de documentos de texto, mediante la herramienta RapidMiner. Con todo esto se pretende mejorar la experiencia del usuario al organizar recetas, mediante la clasificación automática en diferentes categorías para su fácil acceso.
