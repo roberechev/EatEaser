@@ -6,7 +6,14 @@ Este proyecto tiene como objetivo principal procesar recetas de cocina, extrayen
 Quick start
 -----------
 Eateaser necesita tener instalado:
-> python get-pip.py
-    
-Antes de instalar cualquier módulo deberemos tener instalado al menos la versión 3.8 de Python y asegurarnos de que tenemos pip instalado “python get-pip.py”.
-Cuando ya tenemos python y pip instalado. ¿Qué debemos hacer con el archivo requirements.txt? Abriremos un terminal de comandos en nuestro entorno virtual, navegaremos a la carpeta principal de la interfaz “cd /path/Eateaser/Interfaz”. donde encontraremos bastantes carpetas, el main.py y el requirement.txt. En el terminal de comandos deberemos ejecutar el siguiente comando “pip install -r requirements.txt”. Esto nos instalará todas las librerías/módulos necesarios y cuando ya haya finalizado toda la instalación podremos ejecutar el main.py sin ningún impedimento con el comando “python main.py”. Esto iniciará la aplicación y podremos navegar por ella sin preocuparnos.
+```
+python get-pip.py
+```
+Instalación de requirements.txt:
+Abriremos un terminal de comandos en nuestro entorno virtual, navegaremos a la carpeta principal de la interfaz 
+```cd /path/Eateaser/Interfaz```
+En el terminal de comandos deberemos ejecutar el siguiente comando:
+```pip install -r requirements.txt```
+sto nos instalará todas las librerías/módulos necesarios y cuando ya haya finalizado toda la instalación podremos ejecutar el main.py sin ningún impedimento.
+Ejecute el comando para iniciar el programa:
+```python main.py```
