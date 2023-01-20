@@ -11,9 +11,15 @@ python get-pip.py
 ```
 Instalación de requirements.txt:
 Abriremos un terminal de comandos en nuestro entorno virtual, navegaremos a la carpeta principal de la interfaz 
-```cd /path/Eateaser/Interfaz```
+```
+cd /path/Eateaser/Interfaz
+```
 En el terminal de comandos deberemos ejecutar el siguiente comando:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 sto nos instalará todas las librerías/módulos necesarios y cuando ya haya finalizado toda la instalación podremos ejecutar el main.py sin ningún impedimento.
 Ejecute el comando para iniciar el programa:
-```python main.py```
+```
+python main.py
+```
