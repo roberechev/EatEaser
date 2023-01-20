@@ -1,4 +1,4 @@
-<img src="url(https://github.com/adobrasca512/EatEaser/blob/pruebasCarlow/Interfaz/imagenes/chef-logo.png)" alt="mypy logo" width="300px"/>
+<img src="https://github.com/adobrasca512/EatEaser/blob/pruebasCarlow/Interfaz/imagenes/chef-logo.png" alt="mypy logo" width="300px"/>
 Compañía Eateaser
 EatEaser se enmarca en el ámbito de la inteligencia artificial y el procesamiento del lenguaje natural, tiene una aplicación práctica en el campo de la cocina, queremos dar una mejor accesibilidad a las recetas de cocina y una mejor experiencia para el usuario al clasificar recetas específicas. 
 ## Información Startup
